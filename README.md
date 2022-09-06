@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 Reach me on: [Linkedin](https://www.linkedin.com/in/raffaele-paradiso-990646134/)
+📫 Reach me on [Linkedin](https://www.linkedin.com/in/raffaele-paradiso-990646134/)
 
 <!--
 **RaffaeleParadiso/RaffaeleParadiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
