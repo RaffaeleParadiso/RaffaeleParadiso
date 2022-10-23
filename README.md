@@ -5,10 +5,10 @@
 - 🌱 I’m interested in Web3, Machine Learning and Data Science.
 - 📫 Reach me on:
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/raffaele-paradiso-990646134/)">
+  <a href="https://www.linkedin.com/in/raffaele-paradiso-990646134/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="(https://raffaeleparadiso.github.io/)">
+  <a href="https://raffaeleparadiso.github.io/">
   <img src="https://img.shields.io/badge/void-.io-blue?style=for-the-badge&logoColor=white""
 </div>
 
