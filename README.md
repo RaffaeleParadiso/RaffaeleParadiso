@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a stochastic model for pricing Cryptocurrency Options (SVCJ).
 - 🌱 I’m interested in Web3, Machine Learning and Data Science.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/raffaele-paradiso-990646134/).
--                                                                                                                                                                         Oh, BTW I Use Arch.
+
 - [Nothing](https://raffaeleparadiso.github.io/)
 <!--
 **RaffaeleParadiso/RaffaeleParadiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
