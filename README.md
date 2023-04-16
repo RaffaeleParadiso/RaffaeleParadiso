@@ -11,7 +11,7 @@
   <a href="https://raffaeleparadiso.github.io/">
   <img src="https://img.shields.io/badge/void-.io-blue?style=for-the-badge&logoColor=white""
 </div>
-![counter](https://entzg7xu07zj4yp.m.pipedream.net)
+https://entzg7xu07zj4yp.m.pipedream.net
 <!--
 **RaffaeleParadiso/RaffaeleParadiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
