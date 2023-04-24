@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/void-.io-blue?style=for-the-badge&logoColor=white""/>
 </div>
 
-- [!counter](https://entzg7xu07zj4yp.m.pipedream.net)
+- ![counter](https://entzg7xu07zj4yp.m.pipedream.net)
