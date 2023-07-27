@@ -10,4 +10,4 @@
 </div>
 
 ![](https://entzg7xu07zj4yp.m.pipedream.net)
-![Snake animation](https://github.com/RaffaeleParadiso/RaffaeleParadiso/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RaffaeleParadiso/RaffaeleParadiso/blob/output/github-contribution-grid-snake.svg)
